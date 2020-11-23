@@ -13,6 +13,6 @@ A fun interactive IPL Quiz.
 
 
 
-This *quiz* was developed using **HTML**
+This *quiz* was developed using **JS**
 
 
