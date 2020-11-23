@@ -3,7 +3,7 @@ A fun interactive IPL Quiz.
 
 ![alt text](https://etimg.etb2bimg.com/photo/74508790.cms)
 
-##Things To Notice.
+## Things To Notice.
 - There are no negative points.
   - So No Worries
 - Easy Questions.
