@@ -1,6 +1,10 @@
 # IPL-Quiz
-A fun interactive IPL Quiz
+A fun interactive IPL Quiz.
 
-This quiz is based on the latest IPL 2020 which was held in Dubai.
+##Things To Notice.
+-There are no negative points.
+-- So No Worries
+-Easy Questions.
+-Answers in 3 letters Bold.
 
-To attempt this quiz, make sure you have enough knowledge on Cricket and IPL.
+
